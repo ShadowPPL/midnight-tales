@@ -1,0 +1,3353 @@
+fileFormatVersion: 2
+guid: df607b1a53e45464bb77ff68b7b76058
+timeCreated: 1528884174
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RyuSFA3_0
+    21300002: RyuSFA3_1
+    21300004: RyuSFA3_2
+    21300006: RyuSFA3_3
+    21300008: RyuSFA3_4
+    21300010: RyuSFA3_5
+    21300012: RyuSFA3_6
+    21300014: RyuSFA3_7
+    21300016: RyuSFA3_8
+    21300018: RyuSFA3_9
+    21300020: RyuSFA3_10
+    21300022: RyuSFA3_11
+    21300024: RyuSFA3_12
+    21300026: RyuSFA3_13
+    21300028: RyuSFA3_14
+    21300030: RyuSFA3_15
+    21300032: RyuSFA3_16
+    21300034: RyuSFA3_17
+    21300036: RyuSFA3_18
+    21300038: RyuSFA3_19
+    21300040: RyuSFA3_20
+    21300042: RyuSFA3_21
+    21300044: RyuSFA3_22
+    21300046: RyuSFA3_23
+    21300048: RyuSFA3_24
+    21300050: RyuSFA3_25
+    21300052: RyuSFA3_26
+    21300054: RyuSFA3_27
+    21300056: RyuSFA3_28
+    21300058: RyuSFA3_29
+    21300060: RyuSFA3_30
+    21300062: RyuSFA3_31
+    21300064: RyuSFA3_32
+    21300066: RyuSFA3_33
+    21300068: RyuSFA3_34
+    21300070: RyuSFA3_35
+    21300072: RyuSFA3_36
+    21300074: RyuSFA3_37
+    21300076: RyuSFA3_38
+    21300078: RyuSFA3_39
+    21300080: RyuSFA3_40
+    21300082: RyuSFA3_41
+    21300084: RyuSFA3_42
+    21300086: RyuSFA3_43
+    21300088: RyuSFA3_44
+    21300090: RyuSFA3_45
+    21300092: RyuSFA3_46
+    21300094: RyuSFA3_47
+    21300096: RyuSFA3_48
+    21300098: RyuSFA3_49
+    21300100: RyuSFA3_50
+    21300102: RyuSFA3_51
+    21300104: RyuSFA3_52
+    21300106: RyuSFA3_53
+    21300108: RyuSFA3_54
+    21300110: RyuSFA3_55
+    21300112: RyuSFA3_56
+    21300114: RyuSFA3_57
+    21300116: RyuSFA3_58
+    21300118: RyuSFA3_59
+    21300120: RyuSFA3_60
+    21300122: RyuSFA3_61
+    21300124: RyuSFA3_62
+    21300126: RyuSFA3_63
+    21300128: RyuSFA3_64
+    21300130: RyuSFA3_65
+    21300132: RyuSFA3_66
+    21300134: RyuSFA3_67
+    21300136: RyuSFA3_68
+    21300138: RyuSFA3_69
+    21300140: RyuSFA3_70
+    21300142: RyuSFA3_71
+    21300144: RyuSFA3_72
+    21300146: RyuSFA3_73
+    21300148: RyuSFA3_74
+    21300150: RyuSFA3_75
+    21300152: RyuSFA3_76
+    21300154: RyuSFA3_77
+    21300156: RyuSFA3_78
+    21300158: RyuSFA3_79
+    21300160: RyuSFA3_80
+    21300162: RyuSFA3_81
+    21300164: RyuSFA3_82
+    21300166: RyuSFA3_83
+    21300168: RyuSFA3_84
+    21300170: RyuSFA3_85
+    21300172: RyuSFA3_86
+    21300174: RyuSFA3_87
+    21300176: RyuSFA3_88
+    21300178: RyuSFA3_89
+    21300180: RyuSFA3_90
+    21300182: RyuSFA3_91
+    21300184: RyuSFA3_92
+    21300186: RyuSFA3_93
+    21300188: RyuSFA3_94
+    21300190: RyuSFA3_95
+    21300192: RyuSFA3_96
+    21300194: RyuSFA3_97
+    21300196: RyuSFA3_98
+    21300198: RyuSFA3_99
+    21300200: RyuSFA3_100
+    21300202: RyuSFA3_101
+    21300204: RyuSFA3_102
+    21300206: RyuSFA3_103
+    21300208: RyuSFA3_104
+    21300210: RyuSFA3_105
+    21300212: RyuSFA3_106
+    21300214: RyuSFA3_107
+    21300216: RyuSFA3_108
+    21300218: RyuSFA3_109
+    21300220: RyuSFA3_110
+    21300222: RyuSFA3_111
+    21300224: RyuSFA3_112
+    21300226: RyuSFA3_113
+    21300228: RyuSFA3_114
+    21300230: RyuSFA3_115
+    21300232: RyuSFA3_116
+    21300234: RyuSFA3_117
+    21300236: RyuSFA3_118
+    21300238: RyuSFA3_119
+    21300240: RyuSFA3_120
+    21300242: RyuSFA3_121
+    21300244: RyuSFA3_122
+    21300246: RyuSFA3_123
+    21300248: RyuSFA3_124
+    21300250: RyuSFA3_125
+    21300252: RyuSFA3_126
+    21300254: RyuSFA3_127
+    21300256: RyuSFA3_128
+    21300258: RyuSFA3_129
+    21300260: RyuSFA3_130
+    21300262: RyuSFA3_131
+    21300264: RyuSFA3_132
+    21300266: RyuSFA3_133
+    21300268: RyuSFA3_134
+    21300270: RyuSFA3_135
+    21300272: RyuSFA3_136
+    21300274: RyuSFA3_137
+    21300276: RyuSFA3_138
+    21300278: RyuSFA3_139
+    21300280: RyuSFA3_140
+    21300282: RyuSFA3_141
+    21300284: RyuSFA3_142
+    21300286: RyuSFA3_143
+    21300288: RyuSFA3_144
+    21300290: RyuSFA3_145
+    21300292: RyuSFA3_146
+    21300294: RyuSFA3_147
+    21300296: RyuSFA3_148
+    21300298: RyuSFA3_149
+    21300300: RyuSFA3_150
+    21300302: RyuSFA3_151
+    21300304: RyuSFA3_152
+    21300306: RyuSFA3_153
+    21300308: RyuSFA3_154
+    21300310: RyuSFA3_155
+    21300312: RyuSFA3_156
+    21300314: RyuSFA3_157
+    21300316: RyuSFA3_158
+    21300318: RyuSFA3_159
+    21300320: RyuSFA3_160
+    21300322: RyuSFA3_161
+    21300324: RyuSFA3_162
+    21300326: RyuSFA3_163
+    21300328: RyuSFA3_164
+    21300330: RyuSFA3_165
+    21300332: RyuSFA3_166
+    21300334: RyuSFA3_167
+    21300336: RyuSFA3_168
+    21300338: RyuSFA3_169
+    21300340: RyuSFA3_170
+    21300342: RyuSFA3_171
+    21300344: RyuSFA3_172
+    21300346: RyuSFA3_173
+    21300348: RyuSFA3_174
+    21300350: RyuSFA3_175
+    21300352: RyuSFA3_176
+    21300354: RyuSFA3_177
+    21300356: RyuSFA3_178
+    21300358: RyuSFA3_181
+    21300360: RyuSFA3_182
+    21300362: RyuSFA3_183
+    21300364: RyuSFA3_184
+    21300366: RyuSFA3_198
+    21300368: RyuSFA3_199
+    21300370: RyuSFA3_200
+    21300372: RyuSFA3_201
+    21300374: RyuSFA3_202
+    21300376: RyuSFA3_203
+    21300378: RyuSFA3_204
+    21300380: RyuSFA3_205
+    21300382: RyuSFA3_206
+    21300384: RyuSFA3_207
+    21300386: RyuSFA3_208
+    21300388: RyuSFA3_209
+    21300390: RyuSFA3_210
+    21300392: RyuSFA3_211
+    21300394: RyuSFA3_212
+    21300396: RyuSFA3_213
+    21300398: RyuSFA3_214
+    21300400: RyuSFA3_215
+    21300402: RyuSFA3_216
+    21300404: RyuSFA3_217
+    21300406: RyuSFA3_218
+    21300408: RyuSFA3_219
+    21300410: RyuSFA3_220
+    21300412: RyuSFA3_221
+    21300414: RyuSFA3_222
+    21300416: RyuSFA3_223
+    21300418: RyuSFA3_224
+    21300420: RyuSFA3_225
+    21300422: RyuSFA3_226
+    21300424: RyuSFA3_227
+    21300426: RyuSFA3_228
+    21300428: RyuSFA3_229
+    21300430: RyuSFA3_230
+    21300432: RyuSFA3_179
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RyuSFA3_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3386
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3386
+        width: 67
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3386
+        width: 71
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3386
+        width: 74
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3386
+        width: 68
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_5
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3386
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3386
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_7
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 3384
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3271
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3271
+        width: 74
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3271
+        width: 71
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3271
+        width: 71
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3271
+        width: 70
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3271
+        width: 70
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3271
+        width: 68
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3160
+        width: 74
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3160
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3160
+        width: 63
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3162
+        width: 58
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_19
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3162
+        width: 59
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3162
+        width: 67
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3051
+        width: 65
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3053
+        width: 58
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 3051
+        width: 58
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3051
+        width: 64
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3051
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_26
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3051
+        width: 68
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2944
+        width: 67
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2923
+        width: 64
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2942
+        width: 68
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2959
+        width: 65
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2959
+        width: 65
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2942
+        width: 68
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_33
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2923
+        width: 65
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2824
+        width: 66
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2824
+        width: 67
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2807
+        width: 66
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_37
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2823
+        width: 63
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2847
+        width: 98
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2831
+        width: 60
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_40
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2835
+        width: 117
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2690
+        width: 76
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2695
+        width: 69
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2684
+        width: 64
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2698
+        width: 73
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_45
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2698
+        width: 70
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_46
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2698
+        width: 82
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_47
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2698
+        width: 111
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2575
+        width: 70
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2575
+        width: 75
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2575
+        width: 113
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_51
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2577
+        width: 84
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_52
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2577
+        width: 108
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_53
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2577
+        width: 80
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2461
+        width: 80
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_55
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2461
+        width: 73
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_56
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2461
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_57
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2462
+        width: 63
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_58
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2462
+        width: 106
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_59
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2461
+        width: 60
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_60
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2461
+        width: 87
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_61
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2350
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_62
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2352
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_63
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2350
+        width: 123
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_64
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2350
+        width: 68
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_65
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2350
+        width: 67
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_66
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2348
+        width: 91
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2234
+        width: 113
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_68
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2236
+        width: 96
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_69
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2234
+        width: 58
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_70
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2256
+        width: 69
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_71
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2255
+        width: 70
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_72
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2255
+        width: 129
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2139
+        width: 77
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2135
+        width: 77
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_75
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2137
+        width: 60
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_76
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2135
+        width: 79
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_77
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2149
+        width: 104
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_78
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2144
+        width: 65
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_79
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2144
+        width: 68
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2043
+        width: 106
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_81
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2044
+        width: 58
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_82
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2046
+        width: 123
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_83
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2045
+        width: 68
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_84
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2046
+        width: 68
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_85
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2044
+        width: 65
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_86
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2044
+        width: 79
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1912
+        width: 112
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_88
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1913
+        width: 61
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_89
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1915
+        width: 64
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_90
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1913
+        width: 116
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_91
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1913
+        width: 105
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_92
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1913
+        width: 60
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_93
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1913
+        width: 58
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_94
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1804
+        width: 78
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_95
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1804
+        width: 94
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_96
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1804
+        width: 100
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_97
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1804
+        width: 118
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_98
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1804
+        width: 120
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_99
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1700
+        width: 114
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_100
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1700
+        width: 94
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_101
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1700
+        width: 114
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_102
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1700
+        width: 96
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_103
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1700
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1589
+        width: 119
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_105
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1591
+        width: 119
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_106
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1589
+        width: 121
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_107
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1589
+        width: 103
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_108
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1589
+        width: 148
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_109
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1461
+        width: 76
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_110
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1480
+        width: 65
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1494
+        width: 58
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_112
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1468
+        width: 101
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_113
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1465
+        width: 62
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_114
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1466
+        width: 100
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_115
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1333
+        width: 67
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_116
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1332
+        width: 58
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_117
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1332
+        width: 57
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_118
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1333
+        width: 58
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_119
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1338
+        width: 56
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_120
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1328
+        width: 70
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_121
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1328
+        width: 82
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_122
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1326
+        width: 67
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_123
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1188
+        width: 60
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_124
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1188
+        width: 64
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_125
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1188
+        width: 67
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_126
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1188
+        width: 84
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_127
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1188
+        width: 88
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_128
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1192
+        width: 89
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_129
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1190
+        width: 89
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_130
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1086
+        width: 80
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_131
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1086
+        width: 92
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_132
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1088
+        width: 76
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_133
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1088
+        width: 80
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_134
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1086
+        width: 87
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_135
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1088
+        width: 128
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_136
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 975
+        width: 99
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_137
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 973
+        width: 73
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_138
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 973
+        width: 73
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_139
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 976
+        width: 72
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_140
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 977
+        width: 72
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_141
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 989
+        width: 125
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_142
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 873
+        width: 72
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_143
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 885
+        width: 125
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_144
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 866
+        width: 77
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_145
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 868
+        width: 78
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_146
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 881
+        width: 84
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_147
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 868
+        width: 115
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_148
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 755
+        width: 126
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_149
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 779
+        width: 128
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_150
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 757
+        width: 118
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_151
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 740
+        width: 57
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_152
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 773
+        width: 76
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_153
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 644
+        width: 128
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 637
+        width: 127
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_155
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 637
+        width: 136
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_156
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 636
+        width: 64
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_157
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 636
+        width: 66
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_158
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 513
+        width: 66
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_159
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 513
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_160
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 513
+        width: 71
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_161
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 513
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_162
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 513
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_163
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 513
+        width: 72
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_164
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 513
+        width: 72
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_165
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 513
+        width: 72
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_166
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 398
+        width: 70
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_167
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 398
+        width: 70
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_168
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 400
+        width: 71
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_169
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 400
+        width: 71
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_170
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 351
+        width: 64
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_171
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 349
+        width: 79
+        height: 37
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_172
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 354
+        width: 54
+        height: 29
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_173
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 347
+        width: 77
+        height: 38
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_174
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 351
+        width: 64
+        height: 34
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_175
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 346
+        width: 80
+        height: 37
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_176
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 351
+        width: 56
+        height: 29
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_177
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 345
+        width: 76
+        height: 41
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_178
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 277
+        width: 63
+        height: 62
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_181
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 299
+        width: 47
+        height: 28
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_182
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 288
+        width: 43
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_183
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 284
+        width: 55
+        height: 53
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 282
+        width: 61
+        height: 55
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_198
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 207
+        width: 150
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_199
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 229
+        width: 79
+        height: 38
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_200
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 226
+        width: 76
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_201
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 226
+        width: 82
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_202
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 224
+        width: 78
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_203
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 161
+        width: 55
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 62
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_205
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 154
+        width: 64
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_206
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 206
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_207
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 211
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_208
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 177
+        width: 47
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_209
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 166
+        width: 43
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_210
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 192
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_211
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 197
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_212
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 197
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_213
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 178
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_214
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 175
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_215
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 190
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_216
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 183
+        width: 14
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_217
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 178
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_218
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 171
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_219
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 161
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_220
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 161
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_221
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 152
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_222
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 149
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_223
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 79
+        width: 94
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_224
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 88
+        width: 67
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_225
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 78
+        width: 114
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_226
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 91
+        width: 75
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_227
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 78
+        width: 95
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_228
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 88
+        width: 78
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_229
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 92
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_230
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 23
+        width: 77
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RyuSFA3_179
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 276
+        width: 74
+        height: 65
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
