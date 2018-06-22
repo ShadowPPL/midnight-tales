@@ -378,6 +378,7 @@ GameObject:
   - component: {fileID: 2082789512}
   - component: {fileID: 2082789513}
   - component: {fileID: 2082789514}
+  - component: {fileID: 2082789515}
   m_Layer: 0
   m_Name: RyuSFA
   m_TagString: Untagged
@@ -504,3 +505,17 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.65, y: 1.04}
   m_EdgeRadius: 0
+--- !u!114 &2082789515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2082789509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94257994d8c12734bb230432c98a112e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Animacao: {fileID: 0}
+  velx: 0.3
+  vely: 0.5
