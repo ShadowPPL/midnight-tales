@@ -517,5 +517,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Animacao: {fileID: 0}
-  velx: 0.3
+  velx: 0.24
   vely: 0.5
