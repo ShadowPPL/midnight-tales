@@ -35,13 +35,15 @@ public class TitleScreen : MonoBehaviour {
 				startText.SetActive (false);
 				menuObj.SetActive (true);
 			}
+				
+		} else {
 
 			if (Input.GetKeyUp (KeyCode.Escape)) {
 				init = false;
 				startText.SetActive (true);
 				menuObj.SetActive (false);
 			}
-		} else {
+
 			if (!loadingLevel) {
 				menuOptions [activeElement].selected = true;
 
