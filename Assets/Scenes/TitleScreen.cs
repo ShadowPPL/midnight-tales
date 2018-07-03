@@ -82,9 +82,10 @@ public class TitleScreen : MonoBehaviour {
 				}
 
 				if (Input.GetKeyUp (KeyCode.Space)) {
+					source.PlayOneShot(sfxSound[1],vol);
 					Debug.Log ("Loading Level");
 					loadingLevel = true;
-					StartCoroutine ("LoadingLevel");
+					StartCoroutine ("LoadLevel");
 					menuOptions [activeElement].transform.localScale *= 1.2f;
 				}
 
@@ -111,8 +112,6 @@ public class TitleScreen : MonoBehaviour {
 	IEnumerator LoadLevel(){
 		HandleSelectedOption();
 		yield return new WaitForSeconds (0.6f);
-		startText.SetActive (false);
-		yield return new WaitForSeconds (1.5f);
-		SceneManager.LoadSceneAsync ("select",LoadSceneMode.Single);
+		SceneManager.LoadSceneAsync ("CharacterSelect",LoadSceneMode.Single);
 	}
 }
