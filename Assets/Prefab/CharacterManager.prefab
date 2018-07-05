@@ -65,4 +65,12 @@ MonoBehaviour:
     hasCharacter: 0
     playerPrefab: {fileID: 0}
     score: 0
-  characterList: []
+  characterList:
+  - charId: fighter1
+    prefab: {fileID: 1771025723323394, guid: 19ec3ed423b1aef46b2a4e263481c464, type: 2}
+  - charId: fighter2
+    prefab: {fileID: 1771025723323394, guid: 19ec3ed423b1aef46b2a4e263481c464, type: 2}
+  - charId: fighter3
+    prefab: {fileID: 1771025723323394, guid: 19ec3ed423b1aef46b2a4e263481c464, type: 2}
+  - charId: fighter4
+    prefab: {fileID: 1771025723323394, guid: 19ec3ed423b1aef46b2a4e263481c464, type: 2}
