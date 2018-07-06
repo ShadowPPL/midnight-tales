@@ -33,17 +33,17 @@ public class CharacterManager : MonoBehaviour {
 	}
 
 	//find player by states
-//	public PlayerBase GetPlayerByStates(StateManager states)
-//	{
-//		PlayerBase playerFound = null;
-//		for (int i = 0; i < players.Count; i++) {
-//			if (players[i].playerStates == states) {
-//				playerFound = players [i];
-//				break;
-//			}
-//		}
-//		return playerFound;
-//	}
+	public PlayerBase GetPlayerByStates(StateManager states)
+	{
+		PlayerBase playerFound = null;
+		for (int i = 0; i < players.Count; i++) {
+			if (players[i].playerStates == states) {
+				playerFound = players [i];
+				break;
+			}
+		}
+		return playerFound;
+	}
 
 	// Use this for initialization
 	void Awake () {
@@ -69,7 +69,7 @@ public class PlayerBase
 	public PlayerType playerType;
 	public bool	hasCharacter;
 	public GameObject playerPrefab;
-//	public StateManager playerStates;
+	public StateManager playerStates;
 	public int score;
 
 	public enum PlayerType
