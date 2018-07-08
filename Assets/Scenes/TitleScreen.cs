@@ -6,16 +6,17 @@ using UnityEngine.SceneManagement;
 public class TitleScreen : MonoBehaviour {
 
 	public GameObject startText;
-	float timer;
-	bool loadingLevel;
-	bool init;
-
 	public int activeElement;
 	public GameObject menuObj;
 	public ButtonRef[] menuOptions;
 	public AudioClip[] sfxSound;
 	public float vol;
-	private AudioSource source;
+
+	float timer;
+	bool loadingLevel;
+	bool init;
+	AudioSource source;
+	string nextScene;
 
 	// Use this for initialization
 	void Start () {
@@ -104,14 +105,21 @@ public class TitleScreen : MonoBehaviour {
 			CharacterManager.GetInstance ().numberOfUsers = 2;
 			CharacterManager.GetInstance ().players[1].playerType = PlayerBase.PlayerType.user;
 			break;
+		case 2:
+			nextScene = "Credits";
+			break;
 		default:
+			Debug.Log ("No valid option from menu");
 			break;
 		}
 	}
 
 	IEnumerator LoadLevel(){
+		nextScene = "CharacterSelect";
 		HandleSelectedOption();
 		yield return new WaitForSeconds (0.6f);
-		SceneManager.LoadSceneAsync ("CharacterSelect",LoadSceneMode.Single);
+		float fadeTime = GameObject.Find ("ScreenFader").GetComponent<ScreenFader>().BeginFade(1);
+		yield return new WaitForSeconds (fadeTime);
+		SceneManager.LoadSceneAsync (nextScene,LoadSceneMode.Single);
 	}
 }

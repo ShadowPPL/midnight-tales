@@ -114,6 +114,8 @@ public class CharacterSelect : MonoBehaviour {
 			}
 		}
 		yield return new WaitForSeconds (2);
+		float fadeTime = GameObject.Find ("ScreenFader").GetComponent<ScreenFader>().BeginFade(1);
+		yield return new WaitForSeconds (fadeTime);
 		SceneManager.LoadSceneAsync ("Stage01",LoadSceneMode.Single);
 	}
 
