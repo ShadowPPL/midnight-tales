@@ -211,7 +211,7 @@ public class CharacterSelect : MonoBehaviour {
 		public GameObject selector;				// selection cursor for P1
 		public GameObject createdCharacter;		// created char for P1
 
-		// active X Y entries for P1
+		// active X Y entries for Player
 		public int activeX;
 		public int activeY;
 

@@ -15,17 +15,17 @@ public class TitleScreen : MonoBehaviour {
 	float timer;
 	bool loadingLevel;
 	bool init;
-	AudioSource source;
+	AudioSource audioSource;
 	string nextScene;
+
+	void Awake () {
+		audioSource = GetComponent<AudioSource>();
+		vol = 1.0f;
+	}
 
 	// Use this for initialization
 	void Start () {
 		menuObj.SetActive (false);
-	}
-
-	void Awake () {
-		source = GetComponent<AudioSource>();
-		vol = 1.0f;
 	}
 
 	// Update is called once per frame
@@ -33,18 +33,14 @@ public class TitleScreen : MonoBehaviour {
 
 		if (!init) {
 			// flick start
-			timer += Time.deltaTime;
-			if (timer > 0.6f) {
-				timer = 0;
-				startText.SetActive (!startText.activeInHierarchy);
-			}
+			Flick (startText, 0.6f);
 		
 			// enable menu
 			if (Input.GetKeyUp (KeyCode.Space)) {
 				init = true;
 				startText.SetActive (false);
 				menuObj.SetActive (true);
-				source.PlayOneShot(sfxSound[1],vol);
+				audioSource.PlayOneShot(sfxSound[1],vol);
 			}
 				
 		} else {
@@ -54,7 +50,7 @@ public class TitleScreen : MonoBehaviour {
 				init = false;
 				startText.SetActive (true);
 				menuObj.SetActive (false);
-				source.PlayOneShot(sfxSound[2],vol);
+				audioSource.PlayOneShot(sfxSound[2],vol);
 			}
 
 			// menu navigation
@@ -69,7 +65,7 @@ public class TitleScreen : MonoBehaviour {
 					} else {
 						activeElement = menuOptions.Length - 1;
 					}
-					source.PlayOneShot(sfxSound[0],vol);
+					audioSource.PlayOneShot(sfxSound[0],vol);
 				}
 
 				if (Input.GetKeyUp (KeyCode.DownArrow)) {
@@ -79,11 +75,11 @@ public class TitleScreen : MonoBehaviour {
 					} else {
 						activeElement = 0;
 					}
-					source.PlayOneShot(sfxSound[0],vol);
+					audioSource.PlayOneShot(sfxSound[0],vol);
 				}
 
 				if (Input.GetKeyUp (KeyCode.Space)) {
-					source.PlayOneShot(sfxSound[1],vol);
+					audioSource.PlayOneShot(sfxSound[1],vol);
 					Debug.Log ("Loading Level");
 					loadingLevel = true;
 					StartCoroutine ("LoadLevel");
@@ -93,6 +89,14 @@ public class TitleScreen : MonoBehaviour {
 			}
 		}
 
+	}
+
+	void Flick(GameObject go, float t){
+		timer += Time.deltaTime;
+		if (timer > t) {
+			timer = 0;
+			go.SetActive (!go.activeInHierarchy);
+		}
 	}
 
 	// handle the selected option
