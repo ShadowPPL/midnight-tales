@@ -18,8 +18,10 @@ public class CharacterSelect : MonoBehaviour {
 	public GameObject portraitCanvas;
 	bool loadLevel;
 	public bool bothPlayersSelected;
-
+	public AudioClip[] sfxSound;
+	public float vol;
 	CharacterManager charManager;
+	AudioSource audioSource;
 
 	#region Singleton
 	public static CharacterSelect instance;
@@ -30,6 +32,8 @@ public class CharacterSelect : MonoBehaviour {
 
 	void Awake () {
 		instance = this;
+		audioSource = GetComponent<AudioSource>();
+		vol = 1.0f;
 	}
 	#endregion
 
@@ -71,18 +75,18 @@ public class CharacterSelect : MonoBehaviour {
 				if (i < numberOfPlayers) {
 
 					// if user has pressed, he has unselected a char
-					if (Input.GetButtonUp ("Fire2" + charManager.players [i].inputId)) {
-						plInterfaces[i].playerBase.hasCharacter = false;
-					}
+//					if (Input.GetButtonUp ("Fire2" + charManager.players[i].inputId)) {
+//						plInterfaces[i].playerBase.hasCharacter = false;
+//					}
 
 					if (!charManager.players[i].hasCharacter) {
-						plInterfaces [i].playerBase = charManager.players [i];
-						HandleSelectorPosition (plInterfaces [i]);
-						HandleSelectScreenInput (plInterfaces [i], charManager.players [i].inputId);
-						HandleCharacterPreview (plInterfaces [i]);
+						plInterfaces[i].playerBase = charManager.players[i];
+						HandleSelectorPosition (plInterfaces[i]);
+						HandleSelectScreenInput (plInterfaces[i], charManager.players[i].inputId);
+						HandleCharacterPreview (plInterfaces[i]);
 					}
 				} else {
-					charManager.players [i].hasCharacter = true;
+					charManager.players[i].hasCharacter = true;
 				}
 				
 			}
@@ -107,9 +111,9 @@ public class CharacterSelect : MonoBehaviour {
 					int randVal = Random.Range (0, portraitPrefabs.Length);
 
 					charManager.players [i].playerPrefab = 
-						charManager.GetCharByID (portraitPrefabs [randVal].characterId).prefab;
+						charManager.GetCharByID(portraitPrefabs[randVal].characterId).prefab;
 
-					Debug.Log (portraitPrefabs[randVal].characterId);
+					Debug.Log(portraitPrefabs[randVal].characterId);
 				}
 			}
 		}
@@ -138,8 +142,10 @@ public class CharacterSelect : MonoBehaviour {
 			if (!pl.hitInputOnce) {
 				if (vertical > 0) {
 					pl.activeY = (pl.activeY > 0) ? pl.activeY - 1 : maxY - 1;
+					audioSource.PlayOneShot(sfxSound[0],vol);
 				} else {
 					pl.activeY = (pl.activeY < maxY - 1) ? pl.activeY + 1 : 0;
+					audioSource.PlayOneShot(sfxSound[0],vol);
 				}
 				pl.hitInputOnce = true;
 			}
@@ -150,8 +156,10 @@ public class CharacterSelect : MonoBehaviour {
 			if (!pl.hitInputOnce) {
 				if (horizontal > 0) {
 					pl.activeX = (pl.activeX > 0) ? pl.activeX - 1 : maxX - 1;
+					audioSource.PlayOneShot(sfxSound[0],vol);
 				} else {
 					pl.activeX = (pl.activeX < maxX - 1) ? pl.activeX + 1 : 0;
+					audioSource.PlayOneShot(sfxSound[0],vol);
 				}
 				pl.timerToReset = 0;
 				pl.hitInputOnce = true;
@@ -175,6 +183,7 @@ public class CharacterSelect : MonoBehaviour {
 			// make a reaction on char
 		//	pl.createdCharacter.GetComponentInChildren<Animator> ().Play ("Kick");
 			// pass character to character manager
+			audioSource.PlayOneShot(sfxSound[1],vol);
 			pl.playerBase.playerPrefab = charManager.GetCharByID (pl.activePortrait.characterId).prefab;
 			pl.playerBase.hasCharacter = true;
 		}
