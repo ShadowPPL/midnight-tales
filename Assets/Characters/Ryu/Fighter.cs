@@ -74,7 +74,6 @@ public class Fighter : MonoBehaviour {
         else
             Animacao.SetBool("ryu-hitB", false);
 
-
         if (Input.GetAxisRaw("Fire6") > 0)
         {
             Animacao.SetBool("ryu-win1", true);

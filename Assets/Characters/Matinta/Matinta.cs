@@ -13,14 +13,13 @@ public class Matinta     : MonoBehaviour {
     public float distancia_parede    =  30000.0f; // deveria ser obtida de fonte externa: algo como distancia entre Pivots
     public  float tempo = 0.0f;   // para gerar numero crescente para a simulação das variáveis acima
     public int num_ref = 0;
-    public float updateInterval = 3.0F;
+    public float updateInterval = 10.0F;
     private double lastInterval;
     // -----------------  quebra galho -------------------
 
     const float limite_distancia_oponente = 500.0f;
     const float limite_distancia_parede   = 100.0f;
     public int opcaolist = 0;
-    public bool opc = false;
     public float velx = 0.1f;
     public float vely = 0.3f;
 
@@ -82,7 +81,7 @@ public class Matinta     : MonoBehaviour {
         // verifica situação em relação ao oponente
         if (distancia_openente < limite_distancia_oponente) // oponente próximo ao lutador
         {
-            if (nivel_vida < 20) // lutador tá fraquinho
+            if (nivel_vida < 25) // lutador tá fraquinho
             {
                 opcaolist = 5; // recuar
             }
@@ -110,16 +109,36 @@ public class Matinta     : MonoBehaviour {
         // Executa a ação
         Animacao.SetBool(listAcoes[opcaolist], true);
 
-        // Verifica se é avanço ou recuo do lutados
-        if (opcaolist == 0) transform.Translate(velx*2, 0f, 0f);
-        if (opcaolist == 5) transform.Translate(-velx, 0f, 0f);
-
+        // Verifica se é avanço ou recuo do lutador
+        if (opcaolist == 0)
+        {
+            transform.Translate(velx*4, 0f, 0f);
+        }
+        else if (opcaolist == 5)
+        {
+            transform.Translate(-velx*2, 0f, 0f);
+        }
     }
 
     // Tratamento de colisões
+/*
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.tag == "BolaFogo")
+        {
+            opcaolist = 7;
+
+            Animacao.SetBool(listAcoes[opcaolist], true);  // Primeiro anima o dano
+            opcaolist = 8;                                 // Depois aciona o KO
+            Animacao.SetBool(listAcoes[opcaolist], true);  // Primeiro anima o dano
+            //Instantiate(BarraLutII).GetComponent<>().velx = -5.0f;
+        }
+
+    }
     private void OnCollisionEnter2D(Collision2D colisor)
     {
         Vector2 normal = colisor.contacts[0].normal;
     }
-    
+*/
+
 }

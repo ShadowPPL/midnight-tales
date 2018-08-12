@@ -1,0 +1,18 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ControladorFogo : MonoBehaviour {
+
+    // Use this for initialization
+    void Start () {
+	}
+	
+	// Update is called once per frame
+	void Update () {
+        if (this.transform.position.x < -14)
+        {
+          Destroy(this.gameObject);
+        };
+    }
+}
